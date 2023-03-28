@@ -30,7 +30,8 @@ body {
 }
 
 .flag__item {
-  padding: 10px;
+  margin: 10px 20px 10px 10px;
+  box-shadow: 3px 3px 5px #777777;
 }
 
 .country-list__txt {
